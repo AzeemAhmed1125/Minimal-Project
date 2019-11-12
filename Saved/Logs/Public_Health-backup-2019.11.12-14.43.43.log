@@ -1,0 +1,995 @@
+﻿Log file open, 11/12/19 14:01:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Public_Health
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.881450
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.12-14.01.22:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.12-14.01.22:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:319][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-14.01.22:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.12-14.01.22:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.12-14.01.22:325][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.12-14.01.22:326][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-14.01.22:326][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.12-14.01.22:335][  0]LogHAL: Display: Platform has ~ 8 GB [8428732416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.12-14.01.22:335][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.12-14.01.22:335][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.11.12-14.01.22:336][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.12-14.01.22:337][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Engine.ini]
+[2019.11.12-14.01.22:340][  0]LogInit: Computer: MSI
+[2019.11.12-14.01.22:340][  0]LogInit: User: azeem
+[2019.11.12-14.01.22:340][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.12-14.01.22:340][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.12-14.01.22:341][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.11.12-14.01.22:341][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.12-14.01.22:341][  0]LogMemory: Process Physical Memory: 95.84 MB used, 95.84 MB peak
+[2019.11.12-14.01.22:341][  0]LogMemory: Process Virtual Memory: 90.37 MB used, 90.37 MB peak
+[2019.11.12-14.01.22:341][  0]LogMemory: Physical Memory: 4916.88 MB used,  3121.38 MB free, 8038.27 MB total
+[2019.11.12-14.01.22:341][  0]LogMemory: Virtual Memory: 4657.97 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.12-14.01.22:667][  0]LogInit: Using OS detected language (en-US).
+[2019.11.12-14.01.22:667][  0]LogInit: Using OS detected locale (en-GB).
+[2019.11.12-14.01.22:669][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.12-14.01.22:893][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.12-14.01.22:957][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.12-14.01.22:957][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.12-14.01.23:405][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-14.01.23:405][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.12-14.01.23:556][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2019.11.12-14.01.23:556][  0]LogD3D11RHI:       3962/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.12-14.01.23:572][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.12-14.01.23:572][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.12-14.01.23:579][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.12-14.01.23:579][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.12-14.01.23:579][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.12-14.01.23:605][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.12-14.01.23:605][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.12-14.01.23:605][  0]LogWindows: EnumDisplayDevices:
+[2019.11.12-14.01.23:605][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.12-14.01.23:605][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.12-14.01.23:605][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.12-14.01.23:605][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.12-14.01.23:605][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2019.11.12-14.01.23:605][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.12-14.01.23:605][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.12-14.01.23:605][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2019.11.12-14.01.23:652][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.12-14.01.23:662][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-14.01.23:662][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-14.01.23:663][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-14.01.23:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.12-14.01.24:016][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.12-14.01.24:029][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.12-14.01.24:043][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.12-14.01.24:058][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.12-14.01.24:073][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.12-14.01.24:089][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.12-14.01.24:104][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.12-14.01.24:119][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.12-14.01.24:127][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.12-14.01.24:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.12-14.01.24:202][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.12-14.01.24:255][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.12-14.01.24:256][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.12-14.01.24:277][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.12-14.01.24:277][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.12-14.01.24:292][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.12-14.01.24:306][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.12-14.01.24:319][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.12-14.01.24:334][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.12-14.01.24:375][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.12-14.01.24:375][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.12-14.01.24:375][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.12-14.01.24:390][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.12-14.01.24:525][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Intermediate/Shaders/WorkingDirectory/2372/).
+[2019.11.12-14.01.24:525][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/azeem/AppData/Local/Temp/UnrealShaderWorkingDir/BE62E1C14EE797C1FE764A9C58753D25/'.
+[2019.11.12-14.01.24:529][  0]LogXGEController: Cleaning working directory: C:/Users/azeem/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.12-14.01.24:529][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.12-14.01.24:529][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.12-14.01.24:529][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.12-14.01.25:266][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: Loaded boot cache 0.12s 81MB C:/Users/azeem/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/azeem/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-14.01.25:385][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.12-14.01.25:399][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.12-14.01.25:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-14.01.25:399][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.12-14.01.25:411][  0]LogDerivedDataCache: Using Local data cache path C:/Users/azeem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.12-14.01.25:411][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.12-14.01.25:411][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.12-14.01.25:432][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.12-14.01.25:441][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.12-14.01.25:447][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.12-14.01.25:642][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2019.11.12-14.01.26:065][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-14.01.26:298][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.12-14.01.26:298][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.12-14.01.26:298][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.12-14.01.26:298][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.12-14.01.26:298][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.12-14.01.26:331][  0]LogNetVersion: Public_Health 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3242279341)
+[2019.11.12-14.01.27:000][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051421 seconds
+[2019.11.12-14.01.27:005][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.12-14.01.27:005][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.12-14.01.27:005][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.12-14.01.29:035][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.12-14.01.29:053][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.12-14.01.29:231][  0]SourceControl: Source control is disabled
+[2019.11.12-14.01.29:231][  0]SourceControl: Source control is disabled
+[2019.11.12-14.01.29:245][  0]SourceControl: Source control is disabled
+[2019.11.12-14.01.29:252][  0]SourceControl: Source control is disabled
+[2019.11.12-14.01.29:478][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.12-14.01.30:013][  0]LogOcInput: OculusInput pre-init called
+[2019.11.12-14.01.30:760][  0]LogEngine: Initializing Engine...
+[2019.11.12-14.01.30:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-14.01.30:764][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.11.12-14.01.30:982][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.12-14.01.31:029][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.12-14.01.31:070][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.12-14.01.31:251][  0]LogInit: FAudioDevice initialized.
+[2019.11.12-14.01.31:251][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.12-14.01.31:394][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/azeem/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.12-14.01.31:399][  0]LogInit: Texture streaming: Enabled
+[2019.11.12-14.01.31:432][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.12-14.01.31:472][  0]LogInit: Transaction tracking system initialized
+[2019.11.12-14.01.31:543][  0]BlueprintLog: New page: Editor Load
+[2019.11.12-14.01.31:808][  0]LocalizationService: Localization service is disabled
+[2019.11.12-14.01.32:322][  0]LogFileCache: Scanning file cache for directory 'D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Content/' took 0.02s
+[2019.11.12-14.01.32:322][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.12-14.01.32:322][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.12-14.01.32:740][  0]SourceControl: Source control is disabled
+[2019.11.12-14.01.32:742][  0]Cmd: MAP LOAD FILE="D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Content/Waves.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.12-14.01.32:825][  0]LightingResults: New page: Lighting Build
+[2019.11.12-14.01.32:835][  0]MapCheck: New page: Map Check
+[2019.11.12-14.01.32:835][  0]LightingResults: New page: Lighting Build
+[2019.11.12-14.01.32:866][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.12-14.01.34:065][  0]LogAIModule: Creating AISystem for world Waves
+[2019.11.12-14.01.34:080][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.12-14.01.34:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.12-14.01.34:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.12-14.01.34:105][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2019.11.12-14.01.34:105][  0]LogFileHelpers: Loading map 'Waves' took 1.364
+[2019.11.12-14.01.34:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.01.34:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.01.34:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.01.34:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.01.34:305][  0]LogCollectionManager: Loaded 0 collections in 0.001873 seconds
+[2019.11.12-14.01.34:363][  0]LogFileCache: Scanning file cache for directory 'D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Collections/' took 0.01s
+[2019.11.12-14.01.34:363][  0]LogFileCache: Scanning file cache for directory 'D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Content/Developers/azeem/Collections/' took 0.01s
+[2019.11.12-14.01.34:363][  0]LogFileCache: Scanning file cache for directory 'D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Content/Collections/' took 0.01s
+[2019.11.12-14.01.34:363][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.12-14.01.34:373][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2732 classes and 659 folders.
+[2019.11.12-14.01.34:388][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.12-14.01.34:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-14.01.34:553][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.12-14.01.34:571][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.12-14.01.34:635][  0]LogSlate: Took 0.001321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.12-14.01.34:640][  0]LogSlate: Took 0.001136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.12-14.01.34:647][  0]LogSlate: Took 0.001002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.12-14.01.34:725][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2019.11.12-14.01.34:830][  0]LogSlate: Took 0.001020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.12-14.01.34:982][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.12-14.01.34:982][  0]LogLoad: (Engine Initialization) Total time: 16.81 seconds
+[2019.11.12-14.01.34:982][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.12-14.01.35:024][  0]LogAssetRegistry: Asset discovery search completed in 9.4047 seconds
+[2019.11.12-14.01.35:028][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.12-14.01.35:028][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.11.12-14.01.35:030][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.11.12-14.01.38:969][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.01.39:829][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: URL: C:\Users\azeem\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:487][853]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.12-14.01.42:488][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:488][853]LogWindows: Warning: URL: C:\Users\azeem\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.12-14.01.42:488][853]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.12-14.01.42:488][853]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.12-14.02.21:061][250]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.12-14.02.29:830][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.02.32:179][562]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.11.12-14.02.32:309][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.02.37:308][562]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.12-14.02.37:315][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.02.37:399][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.02.37:872][562]LogSourceControl: commit successful: [master 16abe6d] lol
+[2019.11.12-14.02.37:938][562]SourceControl: [master 16abe6d] lol
+[2019.11.12-14.02.37:938][562]SourceControl:  1 file changed, 3 insertions(+), 2 deletions(-)
+[2019.11.12-14.02.37:943][562]SourceControl: Commited [master 16abe6d] lol.
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 1 (Closing connection 2)
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.12-14.10.39:136][601]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 4 (Closing connection 3)
+[2019.11.12-14.10.39:469][602]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.12.55:421][996]LogHttp: Warning: 0000029AED7C4F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.12-14.12.55:421][996]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.12-14.12.55:421][996]LogHttp: Warning: 0000029AED7C4F40: libcurl info message cache 1 (Closing connection 4)
+[2019.11.12-14.12.55:421][996]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40 Response Header Server: awselb/2.0
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40 Response Header Date: Tue, 12 Nov 2019 14:24:06 GMT
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40 Response Header Content-Type: text/html
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40 Response Header Content-Length: 138
+[2019.11.12-14.24.10:327][  0]LogHttp: Warning: 0000029AED7C4F40 Response Header Connection: keep-alive
+[2019.11.12-14.29.06:254][ 36]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.12-14.29.06:254][ 36]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.12-14.29.06:254][ 36]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.12-14.29.06:254][ 36]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: libcurl info message cache 0 (Connection 9 seems to be dead!)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: libcurl info message cache 1 (Closing connection 9)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: 0000029AED7C7D80: libcurl info message cache 4 (Closing connection 10)
+[2019.11.12-14.29.08:350][ 38]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.29.38:804][128]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.550 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 0 (  Trying 34.235.243.192...)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.243.192) port 443 (#11))
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 5 (SSL re-using session ID)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.31.39:668][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.31.39:669][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 10 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.31.39:669][489]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 11 (Closing connection 11)
+[2019.11.12-14.31.40:000][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 1 (  Trying 34.236.93.59...)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.236.93.59) port 443 (#12))
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: 0000029AED7C7EC0: libcurl info message cache 12 (Closing connection 12)
+[2019.11.12-14.33.40:480][848]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 1 (  Trying 34.193.236.143...)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.193.236.143) port 443 (#13))
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: 0000029AE0FE5300: libcurl info message cache 12 (Closing connection 13)
+[2019.11.12-14.35.41:059][270]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.36.13:852][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.36.15:195][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.36.18:416][669]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.12-14.36.18:897][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.36.20:177][775]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.11.12-14.36.20:644][775]EditorErrors: Warning: No assets to check in!
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 1 (  Trying 34.206.62.221...)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.206.62.221) port 443 (#14))
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.37.41:456][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.37.41:457][237]LogHttp: Warning: 0000029AECD22AC0: libcurl info message cache 12 (Closing connection 14)
+[2019.11.12-14.37.41:789][238]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.38.31:104][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.38.38:150][843]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.38.38:150][843]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.38.38:150][843]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.38.38:150][843]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.38.38:271][843]EditorErrors: Warning: No assets to check in!
+[2019.11.12-14.38.54:275][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.38.57:612][198]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:612][198]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.11.12-14.38.57:612][198]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.11.12-14.38.57:612][198]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:612][198]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.11.12-14.38.57:612][198]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.12-14.38.57:613][198]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-14.38.57:614][198]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.11.12-14.38.57:614][198]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.11.12-14.38.57:614][198]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.11.12-14.38.57:615][198]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.11.12-14.38.57:615][198]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.11.12-14.38.58:410][200]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:4510).
+[2019.11.12-14.38.58:422][200]LogContentStreaming: Texture pool size now 600 MB
+[2019.11.12-14.39.01:456][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-14.39.01:477][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.01:481][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-14.39.01:484][382]PIE: New page: PIE session: Waves (12 Nov 2019 14:39:01)
+[2019.11.12-14.39.01:512][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Waves
+[2019.11.12-14.39.01:549][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036157s)
+[2019.11.12-14.39.01:563][382]LogAIModule: Creating AISystem for world Waves
+[2019.11.12-14.39.01:569][382]LogPlayLevel: PIE: World Init took: (0.019199s)
+[2019.11.12-14.39.01:569][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Waves.Waves to /Game/UEDPIE_0_Waves.Waves (0.057205s)
+[2019.11.12-14.39.01:610][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.12-14.39.01:629][382]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.12-14.39.01:704][382]LogInit: FAudioDevice initialized.
+[2019.11.12-14.39.01:766][382]LogLoad: Game class is 'GameModeBase'
+[2019.11.12-14.39.01:787][382]LogWorld: Bringing World /Game/UEDPIE_0_Waves.Waves up for play (max tick rate 60) at 2019.11.12-14.39.01
+[2019.11.12-14.39.01:789][382]LogWorld: Bringing up level for play took: 0.006085
+[2019.11.12-14.39.01:908][382]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.11.12-14.39.01:922][382]PIE: Play in editor start time for /Game/UEDPIE_0_Waves 0.252
+[2019.11.12-14.39.01:925][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.07:641][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.07:646][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.07:684][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-14.39.07:684][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.07:713][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.07:728][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.12-14.39.07:742][723]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.12-14.39.09:415][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.39.09:511][829]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.10:041][858]LogSlate: Took 0.001351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.12-14.39.11:144][916]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.11:144][916]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.15:828][192]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:828][192]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-14.39.15:828][192]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.11.12-14.39.15:828][192]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:828][192]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.12-14.39.15:828][192]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:828][192]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.12-14.39.15:829][192]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.11.12-14.39.15:829][192]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-14.39.15:830][192]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.11.12-14.39.15:830][192]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/One Drive/OneDrive/Public Health Project/UE4 Project/Public_Health/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.11.12-14.39.15:830][192]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.11.12-14.39.16:633][194]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:5073).
+[2019.11.12-14.39.16:641][194]LogContentStreaming: Texture pool size now 800 MB
+[2019.11.12-14.39.18:907][330]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-14.39.18:917][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.18:917][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-14.39.18:917][330]PIE: New page: PIE session: Waves (12 Nov 2019 14:39:18)
+[2019.11.12-14.39.18:917][330]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Waves
+[2019.11.12-14.39.18:920][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002579s)
+[2019.11.12-14.39.18:920][330]LogAIModule: Creating AISystem for world Waves
+[2019.11.12-14.39.18:921][330]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2019.11.12-14.39.18:921][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Waves.Waves to /Game/UEDPIE_0_Waves.Waves (0.003950s)
+[2019.11.12-14.39.18:943][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.12-14.39.18:951][330]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.12-14.39.19:024][330]LogInit: FAudioDevice initialized.
+[2019.11.12-14.39.19:051][330]LogLoad: Game class is 'GameModeBase'
+[2019.11.12-14.39.19:053][330]LogWorld: Bringing World /Game/UEDPIE_0_Waves.Waves up for play (max tick rate 60) at 2019.11.12-14.39.19
+[2019.11.12-14.39.19:053][330]LogWorld: Bringing up level for play took: 0.000921
+[2019.11.12-14.39.19:065][330]PIE: Play in editor start time for /Game/UEDPIE_0_Waves -0.604
+[2019.11.12-14.39.19:065][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.23:565][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.23:565][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.23:594][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-14.39.23:594][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.23:619][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.23:621][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.12-14.39.23:667][603]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.12-14.39.37:668][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-14.39.37:717][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-14.39.37:724][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.37:724][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-14.39.37:724][446]PIE: New page: PIE session: Waves (12 Nov 2019 14:39:37)
+[2019.11.12-14.39.37:725][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Waves
+[2019.11.12-14.39.37:728][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003490s)
+[2019.11.12-14.39.37:729][446]LogAIModule: Creating AISystem for world Waves
+[2019.11.12-14.39.37:729][446]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2019.11.12-14.39.37:729][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Waves.Waves to /Game/UEDPIE_0_Waves.Waves (0.004716s)
+[2019.11.12-14.39.37:748][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.12-14.39.37:757][446]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.12-14.39.37:832][446]LogInit: FAudioDevice initialized.
+[2019.11.12-14.39.37:862][446]LogLoad: Game class is 'GameModeBase'
+[2019.11.12-14.39.37:863][446]LogWorld: Bringing World /Game/UEDPIE_0_Waves.Waves up for play (max tick rate 60) at 2019.11.12-14.39.37
+[2019.11.12-14.39.37:863][446]LogWorld: Bringing up level for play took: 0.000909
+[2019.11.12-14.39.37:876][446]PIE: Play in editor start time for /Game/UEDPIE_0_Waves 0.206
+[2019.11.12-14.39.37:876][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 1 (  Trying 34.236.93.59...)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.236.93.59) port 443 (#15))
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: 0000029AE0F74A40: libcurl info message cache 12 (Closing connection 15)
+[2019.11.12-14.39.41:859][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.39.43:307][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.43:307][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.43:336][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-14.39.43:336][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.43:359][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.43:361][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.12-14.39.43:407][775]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.12-14.39.47:941][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-14.39.48:024][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-14.39.48:031][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.48:031][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-14.39.48:031][ 52]PIE: New page: PIE session: Waves (12 Nov 2019 14:39:48)
+[2019.11.12-14.39.48:031][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Waves
+[2019.11.12-14.39.48:035][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003330s)
+[2019.11.12-14.39.48:035][ 52]LogAIModule: Creating AISystem for world Waves
+[2019.11.12-14.39.48:035][ 52]LogPlayLevel: PIE: World Init took: (0.000441s)
+[2019.11.12-14.39.48:035][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Waves.Waves to /Game/UEDPIE_0_Waves.Waves (0.003898s)
+[2019.11.12-14.39.48:055][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.12-14.39.48:064][ 52]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.12-14.39.48:141][ 52]LogInit: FAudioDevice initialized.
+[2019.11.12-14.39.48:172][ 52]LogLoad: Game class is 'GameModeBase'
+[2019.11.12-14.39.48:173][ 52]LogWorld: Bringing World /Game/UEDPIE_0_Waves.Waves up for play (max tick rate 60) at 2019.11.12-14.39.48
+[2019.11.12-14.39.48:174][ 52]LogWorld: Bringing up level for play took: 0.000849
+[2019.11.12-14.39.48:187][ 52]PIE: Play in editor start time for /Game/UEDPIE_0_Waves 0.517
+[2019.11.12-14.39.48:187][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.50:070][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.50:070][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.50:096][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-14.39.50:096][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Waves.Waves:PersistentLevel' has LevelScriptBlueprint '/Game/Waves.Waves:PersistentLevel.Waves' with GeneratedClass '/Game/Waves.Waves_C' with ClassGeneratedBy '/Game/Waves.Waves:PersistentLevel.Waves'
+[2019.11.12-14.39.50:121][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-14.39.50:124][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.12-14.39.50:169][168]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.12-14.39.52:773][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-14.39.54:387][421]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.54:387][421]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.54:387][421]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.54:387][421]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2019.11.12-14.39.54:508][421]EditorErrors: Warning: No assets to check in!
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 1 (  Trying 34.199.205.253...)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.199.205.253) port 443 (#16))
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 12 (Closing connection 16)
+[2019.11.12-14.41.42:208][136]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 1 (  Trying 34.197.237.78...)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.197.237.78) port 443 (#17))
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 6 (SSL re-using session ID)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 11 (SSL certificate problem: self signed certificate in certificate chain)
+[2019.11.12-14.43.42:781][495]LogHttp: Warning: 0000029AE709C2C0: libcurl info message cache 12 (Closing connection 17)
+[2019.11.12-14.43.43:116][496]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC3EDF6D-4D95-0433-10D1-BE94E78F57D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3422152a4472e3e451187aa78dffa4ef%7C823f1c64c4fd42d5b016fafa815d6517%7C353c11f3-0820-4666-8969-dc986f8cf75b&AppEnvironment=datacollector-binary&UploadType=eteventstream
